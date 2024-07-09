@@ -10,7 +10,6 @@ BoardHub is a collaborative platform designed to facilitate idea sharing and pro
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
 - [Database Schema](#database-schema)
 - [Contributing](#contributing)
 - [Related Projects](#related-projects)
