@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.20",
+    "express-validator": "^7.1.0",
+    "jwt-decode": "^4.0.0",
+    "redux-devtools-extension": "^2.13.9"
+  }
+}
